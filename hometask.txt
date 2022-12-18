@@ -1,0 +1,1 @@
+2) origin/demo & Local/master ничем не отличаются, выводится сообщение "Contents are identical"
